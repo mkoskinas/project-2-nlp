@@ -1,7 +1,7 @@
 # project-2-nlp
 Project | NLP
 ------------------------------------------------------------------------------
-# Deliverables
+## Deliverables
 
    - Python Code: Provide well-documented Python code that conducts the analysis.
    - Accuracy estimation: Provide the teacher with your estimation of how your model will perform.
